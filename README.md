@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### here are some websites you can visit!
+- [onecsca.com](https://onecsca.com/)
+more will be coming! You can checkout the repo to see if something piques your interest or helps you!
+
+
+
 <!--
 **vendouple/vendouple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
